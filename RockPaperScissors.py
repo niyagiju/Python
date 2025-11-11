@@ -25,4 +25,4 @@ while True:
         print("Computer wins this round!")
         comp_w += 1
     print(f"Score - You: {user_W}, Computer: {comp_w}\n")
-    
+print("Thank you")
